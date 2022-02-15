@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Immunavy, this i smy username for github
+- 👋 Hi, I’m @Immunavy, this is my username for github
 - 👀 I’m interested in creating a website
 - 🌱 I’m currently learning how to create a GC website
 - 💞️ I’m looking to collaborate on this creation with Sam
