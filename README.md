@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Immunavy, this i smy username for github
 - 👀 I’m interested in creating a website
 - 🌱 I’m currently learning how to create a GC website
-- 💞️ I’m looking to collaborate on this creation with Sama
+- 💞️ I’m looking to collaborate on this creation with Sam
 - 📫 How to reach me , just send email to imirza49@gmail.com
 
 <!---
